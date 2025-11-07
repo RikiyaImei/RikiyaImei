@@ -1,4 +1,4 @@
-<img width="168" height="19" alt="image" src="https://github.com/user-attachments/assets/26e5509d-7d8e-4783-883d-1a5552270a75" /><!-- Add Your Name and Intro Here -->
+<!-- Add Your Name and Intro Here -->
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </a>
