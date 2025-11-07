@@ -1,4 +1,4 @@
-<!-- Add Your Name and Intro Here -->
+<img width="168" height="19" alt="image" src="https://github.com/user-attachments/assets/26e5509d-7d8e-4783-883d-1a5552270a75" /><!-- Add Your Name and Intro Here -->
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </a>
@@ -11,7 +11,7 @@
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
 </h3>
 
-### [Contact me!](https://t.me/RikiyaImei) 👈click here
+### [Contact me!](https://t.me/gravityoftheearth) 👈click here
 
 ### 🛠 Tech Stack
 - 💻 
